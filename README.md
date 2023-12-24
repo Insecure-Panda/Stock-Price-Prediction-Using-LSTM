@@ -1,3 +1,5 @@
+## Description
+
 **Stock Price Prediction using LSTM**
 
 
@@ -67,3 +69,6 @@ Step 9: Conclusion and Interpretation
 
    
 Remember that while LSTM models can provide insights into stock price trends, actual stock market behaviour is influenced by various complex factors. Predictions should be used for informational purposes and not solely for making investment decisions.
+
+## Credits
+For credits, [Ishan Bhardwaj](https://www.linkedin.com/in/ishanbh/)
